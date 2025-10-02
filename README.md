@@ -51,14 +51,6 @@ I'm a **Software Engineer specializing in Golang** with a passion for AI-powered
 - 🚀 Implement **CI/CD pipelines** for faster, more reliable deployments
 - 📹 Integrate **multi-camera systems** using ONVIF protocol
 
-## 📊 GitHub Stats
-
-![Nikos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGkaltzidis&show_icons=true&theme=dark&count_private=true)
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGkaltzidis&layout=compact&theme=dark)
-
 ## 🎯 Featured Projects
 
 - **Final Year Thesis:** Competitive multiplayer educational web application for JavaScript learning - [View on GitHub](https://github.com/NGkaltzidis)
